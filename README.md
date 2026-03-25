@@ -76,6 +76,7 @@ Clean, modern UI for quick insights
   - Mobile devices
 
 📁 Project Structure
+
 src/
 │
 ├── components/
