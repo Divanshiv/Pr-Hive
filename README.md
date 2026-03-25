@@ -2,12 +2,12 @@
 
 A modern React-based static template designed to represent the Buyer Side of a PR Marketplace platform (similar to Collaborator-style platforms).
 
-This project is ideal for client demos, MVPs, SaaS prototypes, and portfolio showcases, focusing exclusively on buyer workflows like discovering publishers, managing campaigns, and tracking performance.
+This project is ideal for client demos, MVPs, SaaS prototypes, and portfolio showcases, focusing exclusively for buyer workflows like discovering publishers, managing campaigns, and tracking performance.
 
 🌐 Preview
 
 Run locally:
-👉 http://localhost:5173/
+👉 [http://localhost:5173/](http://localhost:5173/)
 
 📌 Overview
 
@@ -77,32 +77,36 @@ Clean, modern UI for quick insights
 
 📁 Project Structure
 
+```text
 src/
-│
 ├── components/
 │   ├── Dashboard/
 │   ├── Marketplace/
 │   ├── Campaigns/
 │   ├── Orders/
 │   └── UI/
-│
 ├── pages/
 │   ├── Home.jsx
 │   ├── Dashboard.jsx
 │   ├── Marketplace.jsx
 │   ├── Campaigns.jsx
 │   └── Orders.jsx
-│
 ├── App.jsx
 └── main.jsx
+```
 
 🚀 Getting Started
-1. Install Dependencies
-npm install
-2. Start Development Server
-npm run dev
-3. Open in Browser
-http://localhost:5173/
+
+1. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+2. **Start Development Server**
+   ```bash
+   npm run dev
+   ```
+3. **Open in Browser**
+   👉 [http://localhost:5173/](http://localhost:5173/)
 
 📌 Important Notes
 - This is a static frontend template
